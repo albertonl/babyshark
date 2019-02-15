@@ -1,5 +1,5 @@
 # babyshark
-Baby Shark in different languages
+Baby Shark in different languages (note that it is not exactly focused in programming languages)
 
 Baby shark, doo doo doo doo doo doo
 
