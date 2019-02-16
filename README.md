@@ -72,3 +72,49 @@ It's the end, doo doo doo doo doo doo
 It's the end, doo doo doo doo doo doo
 
 It's the end!
+
+# Languages
+
+_Spoken languages:_
+
+- Georgian
+
+- Spanish
+
+_Programming languages:_
+
+- C++
+
+- ALB (check https://github.com/albertonl/alb)
+
+# To do
+
+_Spoken languages:_
+
+- Catalan implementation
+
+- English implementation (optional, it is already in the README)
+
+- French implementation
+
+- If you're watching this, any other you want :D
+
+_Programming languages:_
+
+- Python implementation
+
+- Java implementation
+
+- JavaScript implementation
+
+- PHP implementation
+
+- Any other you want
+
+_Other stuff that'd be cool:_
+
+- CSS implementation (still wondering how could that be done)
+
+- Blob implementation (doesn't actually exist)
+
+- Brainfuck implementation (just the name sounds scary)
