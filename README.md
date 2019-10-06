@@ -109,6 +109,8 @@ _Programming languages:_
 
 - PHP implementation
 
+- Bengali implementation 
+
 - Any other you want
 
 _Other stuff that'd be cool:_
