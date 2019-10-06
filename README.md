@@ -81,13 +81,29 @@ _Spoken languages:_
 
 - Spanish
 
+- English (README.md)
+
+- Afrikaans
+
+- Bengali
+
+- Hindi
+
 _Programming languages:_
 
 - C++
 
 - Java
 
-- ALB (check https://github.com/albertonl/alb)
+- ALB
+
+- Haskell
+
+- JavaScript
+
+- Python
+
+- x86 BIOS Assembly
 
 # To do
 
@@ -99,23 +115,11 @@ _Spoken languages:_
 
 - French implementation
 
-- Hindi implementation
-
 - If you're watching this, any other you want :D
 
 _Programming languages:_
 
-- Python implementation
-
-- Java implementation
-
-- JavaScript implementation
-
-- PHP implementation
-
-- Bengali implementation 
-
-- Any other you want
+- Whatever the heck you want
 
 _Other stuff that'd be cool:_
 
