@@ -99,6 +99,8 @@ _Spoken languages:_
 
 - French implementation
 
+- Hindi implementation
+
 - If you're watching this, any other you want :D
 
 _Programming languages:_
