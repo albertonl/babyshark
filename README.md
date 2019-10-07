@@ -81,7 +81,7 @@ _Spoken languages:_
 
 - Spanish
 
-- English (README.md)
+- English
 
 - Afrikaans
 
@@ -105,19 +105,23 @@ _Programming languages:_
 
 - x86 BIOS Assembly
 
+- TypeScript
+
 # To do
 
 _Spoken languages:_
 
 - Catalan implementation
 
-- English implementation (optional, it is already in the README)
-
 - French implementation
+
+- Latvian implementation
 
 - If you're watching this, any other you want :D
 
 _Programming languages:_
+
+- HTML (ik it's not a programming language but I'm lazy to create another list)
 
 - Whatever the heck you want
 
