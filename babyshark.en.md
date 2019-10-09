@@ -1,4 +1,4 @@
-# babyshark
+# Baby Shark
 
 Baby shark, doo doo doo doo doo doo
 
