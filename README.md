@@ -89,6 +89,8 @@ _Spoken languages:_
 
 - Hindi
 
+- Bahasa Indonesia
+
 _Programming languages:_
 
 - C++
@@ -106,6 +108,12 @@ _Programming languages:_
 - x86 BIOS Assembly
 
 - TypeScript
+
+- PHP
+
+_Weird languages that shouldn't even exist and don't deserve being in the previous list:_
+
+- HTML
 
 # To do
 
