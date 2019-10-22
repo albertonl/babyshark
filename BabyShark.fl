@@ -1,0 +1,22 @@
+##
+Baby Shark in Flow
+==============================
+I can't believe I'm doing this
+@bach5000
+##
+
+dodo = "doo doo doo doo doo doo"
+seq  = 	"Baby",
+	"Mommy",
+	"Daddy",
+	"Grandma",
+	"Granpa" for each do (each+" shark"),
+	"Let's go hunt",
+	"Run away",
+	"Safe at last",
+	"It's the end"
+
+seq for name do {
+	3 times (print (name + ", " + dodo))
+	print (name + "!")
+}
