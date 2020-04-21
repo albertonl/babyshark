@@ -77,8 +77,6 @@ It's the end!
 
 _Spoken languages:_
 
-- Portuguese
-
 - Georgian
 
 - Spanish
@@ -96,6 +94,8 @@ _Spoken languages:_
 - French
 
 - German
+
+- Portuguese
 
 _Programming languages:_
 
