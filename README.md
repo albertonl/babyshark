@@ -77,6 +77,8 @@ It's the end!
 
 _Spoken languages:_
 
+- Portuguese
+
 - Georgian
 
 - Spanish
@@ -90,6 +92,10 @@ _Spoken languages:_
 - Hindi
 
 - Bahasa Indonesia
+
+- French
+
+- German
 
 _Programming languages:_
 
@@ -120,8 +126,6 @@ _Weird languages that shouldn't even exist and don't deserve being in the previo
 _Spoken languages:_
 
 - Catalan implementation
-
-- French implementation
 
 - Latvian implementation
 
