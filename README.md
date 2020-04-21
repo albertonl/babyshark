@@ -95,6 +95,8 @@ _Spoken languages:_
 
 - French
 
+- German
+
 _Programming languages:_
 
 - C++
