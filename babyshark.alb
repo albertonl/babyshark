@@ -1,41 +1,33 @@
 // Baby Shark implementation in ALB
 // @albertonl
 
+IMPORT ALB 0.1 // ALB stdlib
+
+GLOBAL STATIC
+	const List(:string, 9) family = [
+		"Baby shark",
+		"Mommy shark",
+		"Daddy shark",
+		"Grandma shark",
+		"Grandpa shark",
+		"Let\'s go hunt",
+		"Run away",
+		"Safe at last",
+		"It\'s the end"
+	];
+END
 BEGIN
-	repeat 3
-		out Baby shark, doo doo doo doo doo doo NEWL ;
+	repeat $family.length(); use this.index as i:
+		repeat 3:
+			out {
+				:var $family[$i];
+				:str ", doo doo doo doo doo doo" NEWL;
+			}
+		ENDLOOP
+		out {
+			:var $family[$i];
+			:char '!';
+			:newline
+		}
 	ENDLOOP
-	out Baby shark! NEWL ;
-	repeat 3
-		out Mommy shark, doo doo doo doo doo doo NEWL ;
-	ENDLOOP
-	out Mommy shark! NEWL ;
-	repeat 3
-		out Daddy shark, doo doo doo doo doo doo NEWL ;
-	ENDLOOP
-	out Daddy shark! NEWL ;
-	repeat 3
-		out Grandma shark, doo doo doo doo doo doo NEWL ;
-	ENDLOOP
-	out Grandma shark! NEWL ;
-	repeat 3
-		out Grandpa shark, doo doo doo doo doo doo NEWL ;
-	ENDLOOP
-	out Grandpa shark! NEWL ;
-	repeat 3
-		out Let's go hunt, doo doo doo doo doo doo NEWL ;
-	ENDLOOP
-	out Let's go hunt! NEWL ;
-	repeat 3
-		out Run away, doo doo doo doo doo doo NEWL ;
-	ENDLOOP
-	out Run away! NEWL ;
-	repeat 3
-		out Safe at last, doo doo doo doo doo doo NEWL ;
-	ENDLOOP
-	out Safe at last! NEWL ;
-	repeat 3
-		out It's the end, doo doo doo doo doo doo NEWL ;
-	ENDLOOP
-	out It's the end! NEWL ;
 END
