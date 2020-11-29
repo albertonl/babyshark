@@ -83,6 +83,8 @@ _Spoken languages:_
 
 - English
 
+- Latvian
+
 - Afrikaans
 
 - Bengali
@@ -127,13 +129,9 @@ _Spoken languages:_
 
 - Catalan implementation
 
-- Latvian implementation
-
 - If you're watching this, any other you want :D
 
 _Programming languages:_
-
-- HTML (ik it's not a programming language but I'm lazy to create another list)
 
 - Whatever the heck you want
 
