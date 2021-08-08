@@ -1,14 +1,5 @@
 # Mazulis haizivs
 
----
-**ATTENTION / UZMANĪBU**
-
-The user in charge of this translation is <i>not</i> a native Latvian speaker. This translation may be incorrect.
-
-Par šo tulkojumu atbildīgais lietotājs nav dzimtās latviešu valodas runatājs. Iespējams, ka šis tulkojums nav pareizs.
-
----
-
 Mazulis haizivs, dū dū dū dū dū dū
 
 Mazulis haizivs, dū dū dū dū dū dū
