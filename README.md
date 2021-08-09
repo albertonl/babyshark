@@ -81,6 +81,8 @@ _Spoken languages:_
 
 - Spanish
 
+- Catalan
+
 - English
 
 - Latvian
@@ -127,9 +129,7 @@ _Weird languages that shouldn't even exist and don't deserve being in the previo
 
 _Spoken languages:_
 
-- Catalan implementation
-
-- If you're watching this, any other you want :D
+- Anything, honestly
 
 _Programming languages:_
 
