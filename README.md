@@ -121,7 +121,14 @@ _Programming languages:_
 
 - PHP
 
-_Weird languages that shouldn't even exist and don't deserve being in the previous list:_
+- Haskell
+
+- Go
+
+- MIPS Assembly
+
+
+_Weird languages that don't deserve being in the previous list:_
 
 - HTML
 
