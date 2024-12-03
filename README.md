@@ -127,6 +127,8 @@ _Programming languages:_
 
 - MIPS Assembly
 
+- LOLCODE
+
 
 _Weird languages that don't deserve being in the previous list:_
 
