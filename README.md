@@ -131,6 +131,8 @@ _Programming languages:_
 
 - Oracle PL/SQL
 
+- Rust
+
 
 _Weird languages that don't deserve being in the previous list:_
 
