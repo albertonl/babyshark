@@ -129,6 +129,8 @@ _Programming languages:_
 
 - LOLCODE
 
+- Oracle PL/SQL
+
 
 _Weird languages that don't deserve being in the previous list:_
 
