@@ -103,6 +103,8 @@ _Spoken languages:_
 
 _Programming languages:_
 
+- C
+
 - C++
 
 - Java
