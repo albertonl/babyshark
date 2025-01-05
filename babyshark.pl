@@ -7,7 +7,7 @@ print_item(Line) :-
     print_line(Line, 3),
     format('~w!~n', [Line]).
 
-print_line(_, _, 0).
+print_line(_, 0).
 print_line(Line, Index) :-
     Index > 0,
     format('~w, doo doo doo doo doo doo~n', [Line]),
