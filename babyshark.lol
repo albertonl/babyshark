@@ -6,19 +6,19 @@ HAI 1.2
         TLDR
         INDEX, WTF?
             OMG 0
-                VISIBLE "Baby Shark"!
+                VISIBLE "Baby shark"!
                 GTFO
             OMG 1
-                VISIBLE "Mommy Shark"!
+                VISIBLE "Mommy shark"!
                 GTFO
             OMG 2
-                VISIBLE "Daddy Shark"!
+                VISIBLE "Daddy shark"!
                 GTFO
             OMG 3
-                VISIBLE "Grandma Shark"!
+                VISIBLE "Grandma shark"!
                 GTFO
             OMG 4
-                VISIBLE "Grandpa Shark"!
+                VISIBLE "Grandpa shark"!
                 GTFO
             OMG 5
                 VISIBLE "Let's go hunt"!
