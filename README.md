@@ -114,6 +114,7 @@ Baby Shark has been successfully translated and implemented in over 30 different
 |          Prolog          |         @albertonl         |
 |          Python          |         @MatejMecka        |
 |           Rust           |           @spm73           |
+|           Swift          |         @javiiervm         |
 |        TypeScript        |       @shreyasminocha      |
 |     x86 BIOS Assembly    |         @Adrijaned         |
 
